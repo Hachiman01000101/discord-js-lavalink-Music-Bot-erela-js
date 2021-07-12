@@ -1,13 +1,13 @@
 {
-  "token": "TOKEN",
-  "prefix": "!",
+  "token": "ODYxOTE0NTAxMzM0MzAyNzcx.YOQubg.ZAQWwkf2OCpW3JP0P-Yq0ixqong",
+  "prefix": ".",
 
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
-         "password": "youshallnotpass"
+         "host": "139.59.235.130",
+         "port": 5665,
+         "password": "capslocksayangkmu"
        }
      ]
   },
